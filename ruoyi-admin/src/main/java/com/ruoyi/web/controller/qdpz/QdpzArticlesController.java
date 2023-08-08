@@ -22,7 +22,7 @@ import java.util.List;
  * @date 2023-08-08
  */
 @RestController
-@RequestMapping("/system/articles")
+@RequestMapping("/qdpz/articles")
 public class QdpzArticlesController extends BaseController {
     @Autowired
     private IQdpzArticlesService qdpzArticlesService;
