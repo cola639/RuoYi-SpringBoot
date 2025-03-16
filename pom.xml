@@ -225,7 +225,6 @@
         <module>colaclub-quartz</module>
         <module>colaclub-generator</module>
         <module>colaclub-common</module>
-        <module>colaclub-websocket</module>
     </modules>
     <packaging>pom</packaging>
 
